@@ -1,0 +1,16 @@
+C:\Users\Nicu\source\repos\PlayingCard\PlayingCard\bin\Debug\net5.0\PlayingCard.exe
+C:\Users\Nicu\source\repos\PlayingCard\PlayingCard\bin\Debug\net5.0\PlayingCard.deps.json
+C:\Users\Nicu\source\repos\PlayingCard\PlayingCard\bin\Debug\net5.0\PlayingCard.runtimeconfig.json
+C:\Users\Nicu\source\repos\PlayingCard\PlayingCard\bin\Debug\net5.0\PlayingCard.runtimeconfig.dev.json
+C:\Users\Nicu\source\repos\PlayingCard\PlayingCard\bin\Debug\net5.0\PlayingCard.dll
+C:\Users\Nicu\source\repos\PlayingCard\PlayingCard\bin\Debug\net5.0\PlayingCard.pdb
+C:\Users\Nicu\source\repos\PlayingCard\PlayingCard\obj\Debug\net5.0\PlayingCard.csproj.AssemblyReference.cache
+C:\Users\Nicu\source\repos\PlayingCard\PlayingCard\obj\Debug\net5.0\PlayingCard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicu\source\repos\PlayingCard\PlayingCard\obj\Debug\net5.0\PlayingCard.AssemblyInfoInputs.cache
+C:\Users\Nicu\source\repos\PlayingCard\PlayingCard\obj\Debug\net5.0\PlayingCard.AssemblyInfo.cs
+C:\Users\Nicu\source\repos\PlayingCard\PlayingCard\obj\Debug\net5.0\PlayingCard.csproj.CoreCompileInputs.cache
+C:\Users\Nicu\source\repos\PlayingCard\PlayingCard\obj\Debug\net5.0\PlayingCard.dll
+C:\Users\Nicu\source\repos\PlayingCard\PlayingCard\obj\Debug\net5.0\refint\PlayingCard.dll
+C:\Users\Nicu\source\repos\PlayingCard\PlayingCard\obj\Debug\net5.0\PlayingCard.pdb
+C:\Users\Nicu\source\repos\PlayingCard\PlayingCard\obj\Debug\net5.0\PlayingCard.genruntimeconfig.cache
+C:\Users\Nicu\source\repos\PlayingCard\PlayingCard\obj\Debug\net5.0\ref\PlayingCard.dll
